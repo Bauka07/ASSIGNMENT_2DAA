@@ -294,4 +294,4 @@ This project is submitted as academic coursework.
 
 - Partner: Abylaikhan (Insertion Sort implementation)
 - Course Instructor: [Instructor Name]
-- Institution: [University Name]
+- Institution: Astana IT University
