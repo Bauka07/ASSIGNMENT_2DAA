@@ -293,5 +293,4 @@ This project is submitted as academic coursework.
 ## Acknowledgments
 
 - Partner: Abylaikhan (Insertion Sort implementation)
-- Course Instructor: [Instructor Name]
 - Institution: Astana IT University
